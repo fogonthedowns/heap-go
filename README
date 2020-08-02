@@ -1,0 +1,13 @@
+HEAP
+
+╔═══════════╦═════════╦═════════════╗
+║ Action    ║ Array   ║ HEAP        ║
+╠═══════════╬═════════╬═════════════╣
+║ Peek      ║ O(1)    ║ O(1)        ║
+║ Search    ║ O(n)    ║ O(n)        ║
+║ Insert    ║ O(n)    ║ O(log n)    ║
+║ Delete    ║ O(n)    ║ O(log n)    ║
+╚═══════════╩═════════╩═════════════╝
+
+https://www.youtube.com/watch?v=t0Cq6tVNRBA
+http://tobin.cc/blog/heap/
